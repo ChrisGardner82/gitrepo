@@ -3,3 +3,6 @@ This is a file
 This sentence is a pangram, a sentence that contains all the letters of the alphabet
 Gibber jabber
 	hello world
+	
+	staged changes
+	
